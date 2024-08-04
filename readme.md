@@ -2,6 +2,8 @@
 
 Welcome to the JavaScript Tutorial repository! This repository is designed to help you learn JavaScript, one of the most popular programming languages used for web development. Whether you are a beginner or looking to refresh your knowledge, this tutorial provides a comprehensive guide to get you started with JavaScript.
 
+https://www.youtube.com/@QaAutomationAlchemist
+
 ## Table of Contents
 
 - [Introduction](#introduction)
